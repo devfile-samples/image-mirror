@@ -1,1 +1,2 @@
 composer:2.4
+eclipse-temurin:17-jdk-alpine
